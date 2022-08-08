@@ -23,6 +23,6 @@
 --->
 
 - #### **22.08.08. Daily Seminar**
-  - Ash-Hun :   
-  - HS980924 :   
-  - MinsungKimDev :   
+  - Ash-Hun : 선형대수 기초, 행렬 표기법, 영어 회화 스터디 소개
+  - HS980924 : Node.js 기본편 -핵심개념 이해-
+  - MinsungKimDev : 코딩셰프 - 플러터 순한맛 강좌 15 ~ 20 
