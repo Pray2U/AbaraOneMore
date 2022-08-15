@@ -27,7 +27,12 @@
   - HS980924 : Node.js 기본편 -핵심개념 이해-
   - MinsungKimDev : 코딩셰프 - 플러터 순한맛 강좌 15 ~ 20 
  
- - #### **22.08.15. Daily Seminar**
+- #### **22.08.15. Daily Seminar**
   - Ash-Hun : "Attention is all Need" Paper Review, How to write on README.md  
   - HS980924 : JWT 토큰  
   - MinsungKimDev : 관계형 데이터베이스와 Join, Sequelize Framework  
+
+- #### **22.08.22. Daily Seminar**
+  - Ash-Hun :   
+  - HS980924 :   
+  - MinsungKimDev :   
