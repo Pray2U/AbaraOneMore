@@ -1,6 +1,6 @@
 <h1 align="center">Abara Season 01</h1>
+<div align="center"><p>"아바라 한잔 주세요☕~ 커피한잔 마시면서 진행하는 데일리 세미나</p></div>
 
-####  "아바라 한잔 주세요☕~ 커피한잔 마시면서 진행하는 데일리 세미나
 
 ## ✔ Contributor
 - [**Ash-Hun**](https://github.com/ash-hun)
