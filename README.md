@@ -34,6 +34,11 @@
   - MinsungKimDev : 관계형 데이터베이스와 Join, Sequelize Framework  
 
 - #### **22.08.22. Daily Seminar**
+  - Ash-Hun :  KNN알고리즘 설명
+  - HS980924 : 우선순위 큐 개념 및 동작 과정 설명
+  - MinsungKimDev :  Sequelize module & Swagger 개념 및 사용법 설명
+
+  - #### **22.08.29. Daily Seminar**
   - Ash-Hun :   
   - HS980924 :   
   - MinsungKimDev :   
