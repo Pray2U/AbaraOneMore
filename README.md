@@ -23,7 +23,37 @@
 ----------------------------------------------------------------------------
 --->
 
-- #### **22.08.08. Daily Seminar**
+|22.08.08. Daily Seminar||
+|---|---|
+|Ash-Hun|선형대수 기초, 행렬 표기법, 영어 회화 스터디 소개|
+|HS980924|Node.js 기본 핵심개념 설명|
+|MinsungKimDev|코딩셰프 - 플러터 순한맛 강좌 15 ~ 20|
+
+|22.08.15. Daily Seminar||
+|---|---|
+|Ash-Hun|"Attention is all Need" Paper Review, How to write on README.md|
+|HS980924|JWT 토큰|
+|MinsungKimDev|관계형 데이터베이스와 Join, Sequelize Framework|
+
+|22.08.22. Daily Seminar||
+|---|---|
+|Ash-Hun|KNN알고리즘 설명|
+|HS980924|우선순위 큐 개념 및 동작 과정 설명|
+|MinsungKimDev|Sequelize module & Swagger 개념 및 사용법 설명|
+
+|22.08.29. Daily Seminar||
+|---|---|
+|Ash-Hun|LSTM 개념 설명|
+|HS980924|CORS 개념 설명|
+|MinsungKimDev|API 전송방식 개념 설명, HCS API 동작 시연|
+
+|22.09.05. Daily Seminar||
+|---|---|
+|Ash-Hun||
+|HS980924||
+|MinsungKimDev||
+
+<!-- - #### **22.08.08. Daily Seminar**
   - Ash-Hun : 선형대수 기초, 행렬 표기법, 영어 회화 스터디 소개
   - HS980924 : Node.js 기본편 -핵심개념 이해-
   - MinsungKimDev : 코딩셰프 - 플러터 순한맛 강좌 15 ~ 20 
@@ -46,4 +76,4 @@
 - #### **22.09.05. Daily Seminar**
   - Ash-Hun :   
   - HS980924 :   
-  - MinsungKimDev :   
+  - MinsungKimDev :    -->
