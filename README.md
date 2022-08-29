@@ -43,7 +43,7 @@
   - HS980924 :   CORS 개념 설명
   - MinsungKimDev :   API 전송방식 개념 설명, HCS API 동작 시연
 
-  - #### **22.09.05. Daily Seminar**
+- #### **22.09.05. Daily Seminar**
   - Ash-Hun :   
   - HS980924 :   
   - MinsungKimDev :   
