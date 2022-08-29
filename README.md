@@ -39,6 +39,11 @@
   - MinsungKimDev :  Sequelize module & Swagger 개념 및 사용법 설명
 
 - #### **22.08.29. Daily Seminar**
+  - Ash-Hun :   LSTM 개념 설명
+  - HS980924 :   CORS 개념 설명
+  - MinsungKimDev :   API 전송방식 개념 설명, HCS API 동작 시연
+
+  - #### **22.09.05. Daily Seminar**
   - Ash-Hun :   
   - HS980924 :   
   - MinsungKimDev :   
