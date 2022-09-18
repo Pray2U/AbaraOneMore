@@ -43,7 +43,15 @@
   - HS980924 :   CORS 개념 설명
   - MinsungKimDev :   API 전송방식 개념 설명, HCS API 동작 시연
 
-- #### **22.09.05. Daily Seminar**
+- #### **22.09.05. Holiday 🥰🥰**
+
+- #### **22.09.13. Daily Seminar**
+  - Ash-Hun : Advanced Python  
+  - HS980924 : Javascript Garbage Collector   
+  - MinsungKimDev : Node.js ProjectMangaer 'PM2'  
+
+- #### **22.09.19. Daily Seminar**
   - Ash-Hun :   
-  - HS980924 :   
+  - HS980924 :    
   - MinsungKimDev :   
+  - Yurile72 :   
