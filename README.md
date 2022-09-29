@@ -46,12 +46,12 @@
 - #### **22.09.05. Holiday 🥰🥰**
 
 - #### **22.09.13. Daily Seminar**
-  - Ash-Hun : Advanced Python  
+  - Ash-Hun : Advanced Python lec01 
   - HS980924 : Javascript Garbage Collector   
   - MinsungKimDev : Node.js ProjectMangaer 'PM2'  
 
 - #### **22.09.19. Daily Seminar**
-  - Ash-Hun :   
-  - HS980924 :    
-  - MinsungKimDev :   
+  - Ash-Hun : Advanced Python lec02  
+  - HS980924 : Redis 파헤치기   
+  - MinsungKimDev : 클라우드 컴퓨팅과 데이터센터  
   - Yurile72 :   
