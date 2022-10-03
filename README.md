@@ -54,4 +54,12 @@
   - Ash-Hun : Advanced Python lec02  
   - HS980924 : Redis 파헤치기   
   - MinsungKimDev : 클라우드 컴퓨팅과 데이터센터  
-  - Yurile72 :   
+  - Yurile72 : 파이썬 멀티쓰레딩
+  
+- #### **22.09.26. Pray2U Seminar😎😎**  
+
+- #### **22.10.05. Daily Seminar**
+  - Ash-Hun :   
+  - HS980924 :    
+  - MinsungKimDev :   
+  - Yurile72 : 
