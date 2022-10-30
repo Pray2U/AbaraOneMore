@@ -68,6 +68,8 @@
 
 - #### **22.10.30. Daily Seminar**
   - Ash-Hun : SW감리와 User Test(공기업 정보시스템 감리 경험공유)  
-  - HS980924 :    
-  - MinsungKimDev : 
-  - Yurile72 : BOB 세미나 후기
+  - HS980924 : 스패닝 트리   
+  - MinsungKimDev : 양자컴퓨팅 산업 응용 사례  
+  - Yurile72 : 웹 해킹 스킬업 과정 (feat. BOB)  
+
+- #### **22.11.01. 이력서/포트폴리오 비교분석 세미나**
