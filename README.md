@@ -56,10 +56,18 @@
   - MinsungKimDev : 클라우드 컴퓨팅과 데이터센터  
   - Yurile72 : 파이썬 멀티쓰레딩
   
-- #### **22.09.26. Pray2U Seminar😎😎**  
+- #### **22.09.26. Pray2U Seminar😎😎**
 
-- #### **22.10.05. Daily Seminar**
-  - Ash-Hun :   
+- #### **22.10.06. METAVERSE Seminar (with. HNU 대학원)🤓🤓**
+
+- #### **22.10.17. Daily Seminar**
+  - Ash-Hun : DALL-E와 text2img의 트렌드  
+  - HS980924 : Socket 통신   
+  - MinsungKimDev : ESLint와 GPIO 시스템
+  - Yurile72 : 카카오 화재로 알아보는 DR 시스템
+
+- #### **22.10.30. Daily Seminar**
+  - Ash-Hun : SW감리와 User Test(공기업 정보시스템 감리 경험공유)  
   - HS980924 :    
-  - MinsungKimDev :   
-  - Yurile72 : 
+  - MinsungKimDev : 
+  - Yurile72 : BOB 세미나 후기
