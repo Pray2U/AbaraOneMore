@@ -6,6 +6,7 @@
 - [**Ash-Hun**](https://github.com/ash-hun)
 - [**HS980924**](https://github.com/HS980924)
 - [**MinsungKimDev**](https://github.com/MinsungKimDev)
+- [**Yurile72**](https://github.com/Yurile72)
 
 ## ✔ Contents
 > **1주일에 한번씩 정해진 시간에 한주동안 공부한 내용을 공유하고 자유로운 토킹을 진행합니다. 다양한 분야의 내용을 공유하면서 견문을 넓히고 배경지식을 기르는것이 목표입니다.**
