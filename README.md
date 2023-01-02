@@ -1,5 +1,5 @@
-<h1 align="center">Abara Season 01</h1>
-<div align="center"><p>"아바라 한잔 주세요☕~ 커피한잔 마시면서 진행하는 데일리 세미나</p></div>
+<h1 align="center">Abara Season 02</h1>
+<div align="center"><p>"2023. 아바라 한잔 주세요☕~ 커피한잔 마시면서 진행하는 데일리 세미나</p></div>
 
 
 ## ✔ Contributor
@@ -7,6 +7,7 @@
 - [**HS980924**](https://github.com/HS980924)
 - [**MinsungKimDev**](https://github.com/MinsungKimDev)
 - [**Yurile72**](https://github.com/Yurile72)
+- [**dongbok Lee**](https://github.com/Dongbok-Lee)
 
 ## ✔ Contents
 > **1주일에 한번씩 정해진 시간에 한주동안 공부한 내용을 공유하고 자유로운 토킹을 진행합니다. 다양한 분야의 내용을 공유하면서 견문을 넓히고 배경지식을 기르는것이 목표입니다.**
@@ -23,6 +24,9 @@
   
 ----------------------------------------------------------------------------
 --->
+
+<details>
+  <summary><b>Season 01</b></summary>
 
 - #### **22.08.08. Daily Seminar**
   - Ash-Hun : 선형대수 기초, 행렬 표기법, 영어 회화 스터디 소개
@@ -78,3 +82,13 @@
 - #### **22.11.10. 이력서/포트폴리오 비교분석 세미나 (2)**  
 
 - #### **22.12.11. 이력서/포트폴리오 비교분석 세미나 (3)**
+
+</details>
+
+<details>
+  <summary><b>Season 02</b></summary>
+  
+  - #### **23.01.xx. Weekly Seminar**
+    - Not yet
+  
+</details>
