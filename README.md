@@ -88,10 +88,10 @@
 <details>
   <summary><b>Season 02</b></summary>
   
-  - #### **23.01.xx. Weekly Seminar**
-  - Ash-Hun : Advanced Python + Numpy + Bootcamp
-  - HS980924 : 리액트
-  - Dongbok-Lee : 대규모 아키텍처 설계 기초
-  - Yurile72 : MQTT통신
+  - #### **23.01.09. Weekly Seminar**
+    - Ash-Hun : Advanced Python + Numpy + Bootcamp
+    - HS980924 : 리액트
+    - Dongbok-Lee : 대규모 아키텍처 설계 기초
+    - Yurile72 : MQTT통신
   
 </details>
