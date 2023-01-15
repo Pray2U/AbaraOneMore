@@ -94,4 +94,10 @@
     - Dongbok-Lee : 대규모 아키텍처 설계 기초
     - Yurile72 : MQTT통신
   
+  - #### **23.01.15. Weekly Seminar**
+    - Ash-Hun : 'Hermes' project
+    - HS980924 : react Hook
+    - Dongbok-Lee : GitOps
+    - Yurile72 : Whatap DevOps
+  
 </details>
