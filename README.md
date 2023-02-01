@@ -100,4 +100,13 @@
     - Dongbok-Lee : GitOps
     - Yurile72 : Whatap DevOps
   
+  - #### **23.01.22. Weekly Seminar**
+    - Personal Vacation (2/4)
+  
+  - #### **23.01.29. Weekly Seminar**
+    - Personal Vacation (2/4)
+  
+  - #### **23.02.05. Weekly Seminar**
+    - Personal Vacation (2/4)
+  
 </details>
