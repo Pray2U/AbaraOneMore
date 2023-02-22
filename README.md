@@ -101,12 +101,18 @@
     - Yurile72 : Whatap DevOps
   
   - #### **23.01.22. Weekly Seminar**
-    - Personal Vacation (2/4)
+    - Personal Vacation 1 (2/4)
   
   - #### **23.01.29. Weekly Seminar**
-    - Personal Vacation (2/4)
+    - Personal Vacation 2 (2/4)
   
   - #### **23.02.05. Weekly Seminar**
-    - Personal Vacation (2/4)
-  
+    - Personal Vacation 3 (2/4)
+    
+  - #### **23.02.12. Weekly Seminar**
+    - Ash-Hun : Machine Learning Work
+    - HS980924 : 리액트_usestate
+    - Dongbok-Lee : DDD 설계기법
+    - Yurile72 : WebRTC
+
 </details>
