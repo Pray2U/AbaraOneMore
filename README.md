@@ -114,5 +114,25 @@
     - HS980924 : 리액트_usestate
     - Dongbok-Lee : DDD 설계기법
     - Yurile72 : WebRTC
+  - #### **23.02.17. Weekly Seminar**
+    - Ash-Hun : Python Unit Test
+    - HS980924 : XSS & CSRF 질문
+    - Dongbok-Lee : KMP Algorithm
+  - #### **23.02.27. Weekly Seminar**
+    - Ash-Hun : MVC Design Pattern 
+    - HS980924 : B-Tree
+    - Dongbok-Lee : RDB NoSQL
+  - #### **23.03.12. Weekly Seminar**
+    - Ash-Hun : chatGPT
+    - HS980924 : B+Tree
+    - Dongbok-Lee : Bash Shell Script
+  - #### **23.03.28. Weekly Seminar**
+    - Ash-Hun : SOLID_Design Smells
+    - HS980924 : Node.js
+    - Dongbok-Lee : 좋은 객체 지향의 설계
+  - #### **23.04.09. Weekly Seminar**
+    - Ash-Hun : -  
+    - HS980924 : -  
+    - Dongbok-Lee : -  
 
 </details>
