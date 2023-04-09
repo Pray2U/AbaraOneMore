@@ -131,8 +131,8 @@
     - HS980924 : Node.js
     - Dongbok-Lee : 좋은 객체 지향의 설계
   - #### **23.04.09. Weekly Seminar**
-    - Ash-Hun : -  
-    - HS980924 : -  
-    - Dongbok-Lee : -  
+    - Ash-Hun : Prompt Engineering  
+    - HS980924 : CPU 스케줄링  
+    - Dongbok-Lee : Apache Kafka  
 
 </details>
