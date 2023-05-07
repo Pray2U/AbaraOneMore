@@ -134,5 +134,14 @@
     - Ash-Hun : Prompt Engineering  
     - HS980924 : CPU 스케줄링  
     - Dongbok-Lee : Apache Kafka  
-
+  - #### **23.05.04. Weekly Seminar**
+    - Ash-Hun : 커리어 코칭  
+    - HS980924 : OS 메모리 관리  
+    - Dongbok-Lee : ELK 스택
+    - Yurile72 : 사물인터넷 봇넷 악성코드 동향 분석   
+  - #### **23.05.14. Weekly Seminar**
+    - Ash-Hun :   
+    - HS980924 :   
+    - Dongbok-Lee :  
+    - Yurile72 :     
 </details>
