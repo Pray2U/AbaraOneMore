@@ -139,7 +139,7 @@
     - HS980924 : OS 메모리 관리  
     - Dongbok-Lee : ELK 스택
     - Yurile72 : 사물인터넷 봇넷 악성코드 동향 분석   
-  - #### **23.05.14. Weekly Seminar**
+  - #### **23.05.16. Weekly Seminar**
     - Ash-Hun :   
     - HS980924 :   
     - Dongbok-Lee :  
