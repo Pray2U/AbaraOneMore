@@ -141,7 +141,11 @@
     - Yurile72 : 사물인터넷 봇넷 악성코드 동향 분석   
   - #### **23.05.16. Weekly Seminar**
     - Ash-Hun : Dependency Management  
-    - HS980924 :   
+    - HS980924 : x
     - Dongbok-Lee : Database Lock 
     - Yurile72 : OpenStack     
+  - #### **23.05.21. Weekly Seminar**
+    - Ash-Hun : Career seminar
+    - HS980924 : Oauth 2.0 
+    - Yurile72 : SingleTon Pattern
 </details>
