@@ -148,4 +148,8 @@
     - Ash-Hun : Career seminar
     - HS980924 : Oauth 2.0 
     - Yurile72 : SingleTon Pattern
+  - #### **23.05.28. Weekly Seminar**
+    - Ash-Hun : Hierarchical Representation Learning
+    - HS980924 : -  
+    - Yurile72 : IP Address
 </details>
