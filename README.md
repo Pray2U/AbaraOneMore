@@ -152,4 +152,11 @@
     - Ash-Hun : Hierarchical Representation Learning
     - HS980924 : -  
     - Yurile72 : IP Address
+  - #### **23.06.04. Weekly Seminar**
+    - Ash-Hun : F-Lab Seminar Review  
+    - HS980924 : -  
+    - Yurile72 : Terraform  
+  - #### **23.06.14. Weekly Seminar**
+    - Ash-Hun : AUSG SideProject Tip Session Review  
+    - HS980924 : 성장하지 못하는 이유    
 </details>
