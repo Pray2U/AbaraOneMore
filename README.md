@@ -159,4 +159,8 @@
   - #### **23.06.14. Weekly Seminar**
     - Ash-Hun : AUSG SideProject Tip Session Review  
     - HS980924 : 성장하지 못하는 이유    
+
+  - #### **23.06.20. Weekly Seminar**
+    - Ash-Hun : 신입 백엔드 개발자의 기초역량  
+    - HS980924 : G마켓 대기열 원리  
 </details>
